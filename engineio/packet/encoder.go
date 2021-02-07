@@ -3,7 +3,7 @@ package packet
 import (
 	"io"
 
-	"github.com/googollee/go-socket.io/engineio/base"
+	"github.com/avayayu/go-socket.io/engineio/base"
 )
 
 type encoder struct {

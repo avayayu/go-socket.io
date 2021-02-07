@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 
-	engineio "github.com/googollee/go-socket.io/engineio"
+	engineio "github.com/avayayu/go-socket.io/engineio"
 )
 
 const (

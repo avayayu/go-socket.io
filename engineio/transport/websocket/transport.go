@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/googollee/go-socket.io/engineio/base"
+	"github.com/avayayu/go-socket.io/engineio/base"
 
 	"github.com/gorilla/websocket"
 )

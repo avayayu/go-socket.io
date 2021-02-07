@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/googollee/go-socket.io/engineio/base"
+	"github.com/avayayu/go-socket.io/engineio/base"
 )
 
 type readArg struct {

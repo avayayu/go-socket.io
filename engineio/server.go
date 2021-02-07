@@ -8,10 +8,10 @@ import (
 
 	websocket2 "github.com/gorilla/websocket"
 
-	"github.com/googollee/go-socket.io/engineio/base"
-	"github.com/googollee/go-socket.io/engineio/transport"
-	"github.com/googollee/go-socket.io/engineio/transport/polling"
-	"github.com/googollee/go-socket.io/engineio/transport/websocket"
+	"github.com/avayayu/go-socket.io/engineio/base"
+	"github.com/avayayu/go-socket.io/engineio/transport"
+	"github.com/avayayu/go-socket.io/engineio/transport/polling"
+	"github.com/avayayu/go-socket.io/engineio/transport/websocket"
 )
 
 func defaultChecker(*http.Request) (http.Header, error) {

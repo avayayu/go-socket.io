@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/googollee/go-socket.io/engineio/base"
-	"github.com/googollee/go-socket.io/engineio/packet"
+	"github.com/avayayu/go-socket.io/engineio/base"
+	"github.com/avayayu/go-socket.io/engineio/packet"
 	"github.com/gorilla/websocket"
 )
 
